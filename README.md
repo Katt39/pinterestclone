@@ -16,6 +16,8 @@ This product is a Pinterest interface clone, made entirely with HTML5 and CSS3. 
 
 ### Project preview
 
+![Demo](/imagenes/projectpreview.png)
+
 ### Contact
 
 + **LinkedIn**: [Katia Jocelyn Luna Cruz](https://www.linkedin.com/in/katialuna39)
