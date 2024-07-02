@@ -10,7 +10,7 @@ This product is a Pinterest interface clone, made entirely with HTML5 and CSS3. 
 
 # Technologies used
 
-+ **HTML5**: Basic paage structure.
++ **HTML5**: Basic page structure.
 + **CSS3**: Design and style, including _flexbox_ for a responsive design and _hover_ effects.
 + **Google icons**: Personalized icons.
 
@@ -18,6 +18,6 @@ This product is a Pinterest interface clone, made entirely with HTML5 and CSS3. 
 
 ### Contact
 
-+ **LinkedIn**: [Katia Jocelyn Luna Cruz](www.linkedin.com/in/katialuna39)
++ **LinkedIn**: [Katia Jocelyn Luna Cruz](https://www.linkedin.com/in/katialuna39)
 + **Instagram**: [@Katt3939](https://www.instagram.com/katt3939/)
 + **X**: [@Katt39Luna](https://x.com/Katt39Luna)
